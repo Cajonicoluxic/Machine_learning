@@ -1,4 +1,4 @@
-
+#Nicolas Jara, Benjamin Yevenes
 # README
 
 Este repositorio contiene varios notebooks de Jupyter, cada uno enfocado en distintos problemas de análisis de datos, machine learning y procesamiento. A continuación, se ofrece una descripción detallada de cada uno de los notebooks incluidos:
